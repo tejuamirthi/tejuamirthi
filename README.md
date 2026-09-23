@@ -76,7 +76,6 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejuamirthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tejuamirthi&hide_border=true&theme=transparent" />
 </p>
 
