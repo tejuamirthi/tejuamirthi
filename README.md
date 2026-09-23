@@ -15,8 +15,7 @@
 
 - 📱 **7+ years** shipping iOS apps — from 0→1 at a YC-backed startup to scale at India's top consumer apps
 - 💸 Currently at **[Aspora](https://aspora.com)**, working on growth and payments for a cross-border remittance platform
-- 🦖 **Engineering lead at [Paleon](https://github.com/ThePaleonApp)** — a gamified paleontology learning app; I lead a small team across iOS, backend and the AI tutor
-- 🛠️ Run **Signal App Studio**, my indie studio for consumer iOS apps — shipped **DeepFlow**, a screen-time app
+- 🛠️ My indie consumer iOS apps — shipped **DeepFlow**, a screen-time app
 - 🧠 Love going deep on architecture before writing code: networking layers, caching, Swift concurrency, modular systems
 - 🎓 IIIT Jabalpur '20
 
